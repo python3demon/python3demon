@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**python3demon/python3demon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#‍💻 Ассаляму алейкум, я python3demon!
 
-Here are some ideas to get you started:
+*Разработчик на Python, сторонник чистого кода.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 📜 Важное примечание о лицензировании (Манифест)
+
+> [!IMPORTANT]
+> Все мои открытые проекты распространяются под **индивидуальной этической лицензией**. 
+> Использование моего программного обеспечения, его исходного кода или его модификаций разрешено **строго в рамках норм и принципов Шариата**.
+
+Полный текст лицензии вы можете найти в файле [LICENSE](LICENSE) внутри моих репозиториев. Если вы используете мой код, вы автоматически соглашаетесь с этим этическим правилом.
